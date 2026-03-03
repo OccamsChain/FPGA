@@ -1,22 +1,4 @@
-# Caihong (Cai) Cai
-
-MSc Student in Electrical & Computer Engineering at Queen's University. Researching real-time speech enhancement using DSP techniques and hardware acceleration.
-
-## About
-
-I'm a graduate student working at the intersection of Digital Signal Processing and Deep Learning. My current research focuses on implementing efficient speech enhancement algorithms on FPGAs for embedded and low-power applications.
-
-### Research Interests
-
-- Digital Signal Processing (DSP)
-- FPGA/Hardware Acceleration
-- Machine Learning for Audio Processing
-- Real-time Embedded Systems
-- Adaptive Filtering
-
----
-
-## Current Project: FPGA-Based Real-Time Speech Enhancement
+## FPGA-Based Real-Time Speech Enhancement
 
 ### Overview
 
@@ -47,12 +29,12 @@ Input Audio (16kHz) → Frame Buffer → STFT → Spectral Subtraction
 
 | Phase | Status | Date |
 |-------|--------|------|
-| Dataset Curation | ✅ Complete | Jan 2024 |
-| Baseline DSP Implementation | ✅ Complete | Feb 2024 |
-| FPGA Hardware Design | ✅ Complete | Mar 2024 |
-| CNN Model Training | 🔄 In Progress | Apr 2024 |
-| Hardware-Aware Quantization | ⏳ Pending | May 2024 |
-| Integration & Validation | ⏳ Pending | Jun 2024 |
+| Dataset Curation | Complete | Jan 2025 |
+| Baseline DSP Implementation |  Complete | Feb 2025 |
+| FPGA Hardware Design | Complete | June 2025 |
+| CNN Model Training | In Progress | Dec 2025 |
+| Hardware-Aware Quantization | Pending 
+| Integration & Validation |  Pending 
 
 ### Preliminary Results
 
@@ -71,10 +53,7 @@ FPGA resource utilization (estimated):
 
 ## Other Projects
 
-### Adaptive Noise Cancellation in MATLAB
-Implemented NLMS and RLS algorithms for single-channel noise reduction. Evaluated convergence properties under varying SNR conditions.
-
-### Audio Dataset Preprocessing Pipeline
+### Audio Dataset Preprocessing Pipeline (will showcase on github)
 Python-based pipeline for handling speech corpora including LibriSpeech and TIMIT. Spectrogram generation, noise mixing at various SNRs, and data augmentation.
 
 ---
@@ -82,25 +61,6 @@ Python-based pipeline for handling speech corpora including LibriSpeech and TIMI
 ## Publications & Presentations
 
 *(Will update as thesis progresses)*
-
----
-
-## Education
-
-**Master of Science in Electrical Engineering**  
-Queen's University, Kingston, ON  
-*Expected: 2024*
-
-**Bachelor of Engineering in Electrical Engineering**  
-[Undergraduate Institution], [Year]
-
----
-
-## Contact
-
-- **Email:** cai@queensu.ca
-- **GitHub:** [github.com/caihong-cai]
-- **LinkedIn:** [linkedin.com/in/caihong-cai]
 
 ---
 
